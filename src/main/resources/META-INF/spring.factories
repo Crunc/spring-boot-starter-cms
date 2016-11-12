@@ -1,0 +1,3 @@
+# Auto Configure
+com.github.crunc.springboot.cms.EnableCms=\
+com.github.crunc.springboot.cms.CmsAutoConfiguration
